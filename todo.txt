@@ -1,0 +1,6 @@
+** These are just notes to myself **
+
+Add important links/socials
+Add some photos
+Add a projects page
+Some nice CSS with a navbar and colorscheme
