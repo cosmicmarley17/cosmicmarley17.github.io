@@ -5,7 +5,19 @@
 /* Light pink: #EF9CDA */
 /* White-pink: #FFF2FC */
 
+@font-face 
+{
+    font-family: Signika;
+    src: url(fonts/Signika-Regular.ttf);
+}
 body
 {
-   background-color: #FFF2FC; 
+    background-color: #FFF2FC; 
+    font-family: Signika,sans-serif;
+}
+
+.logo1
+{
+    height: 5em;
+    width: 5em;
 }
