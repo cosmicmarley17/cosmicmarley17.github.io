@@ -4,4 +4,3 @@ Add important links/socials
 Add some photos
 Fill out projects page
 Some nice CSS with a navbar and colorscheme
-Get github pages to deploy changes
